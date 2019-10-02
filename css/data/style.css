@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+html {
+	background: #FFF;
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 14px;
+	color: #333;
+	font-family: 'Microsoft YaHei', SimSun, SimHei, "STHeiti Light", STHeiti, "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;
+	/* background: url(img/1.jpg) no-repeat top center; */
+	background-size: 100% auto;
+	max-width: 1920px;
+	margin: 0 auto;
+}
+
+strong,
+i {
+	padding: 0;
+	margin: 0;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+a:hover {
+	color: #900000;
+	text-decoration: none;
+}
+
+
+ul,
+ol,
+li {
+	list-style: none outside none;
+}
+
+.clear {
+	width: 100%;
+	overflow: hidden;
+	height: 0;
+}
+
+.clearfix:after {
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+
+.clearfix {
+	zoom: 1;
+}

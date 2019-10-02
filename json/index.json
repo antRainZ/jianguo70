@@ -1,0 +1,20 @@
+﻿index({
+    "title":"厉害了，我的国",
+    "ico":"img/1.ico",
+    "pro":"建国70周年",
+    "pos1": "首页",
+    "pos1a":"index.html",
+    "pos2": "伟大奇迹",
+    "pos2a":"data.html",
+    "pos3": "光辉历程",
+    "pos3a":"his.html",
+    "pos4": "燕大",
+    "pos4a":"ysu.html",
+    "carousel_img":[
+        {"img":"img/head3.jpg"},
+        {"img":"img/head4.jpg"},
+        {"img":"img/head1.jpg"},
+        {"img":"img/head2.jpg"}
+    ],
+    "ft":"&copy;*******制作"
+})
